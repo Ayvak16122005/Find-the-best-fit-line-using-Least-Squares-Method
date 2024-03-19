@@ -49,7 +49,6 @@ plt.plot(X,Y_pred,color='yellow')
 plt.show() 
 `````
 ## Output:
-![best fit line](sam.png)
 "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-03-19 195306.png"
 
 ## Result:
