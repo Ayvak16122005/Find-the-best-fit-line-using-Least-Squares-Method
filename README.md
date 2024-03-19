@@ -49,7 +49,8 @@ plt.plot(X,Y_pred,color='yellow')
 plt.show() 
 `````
 ## Output:
-![Screenshot 2024-03-19 195306](https://github.com/Ayvak16122005/Find-the-best-fit-line-using-Least-Squares-Method/assets/147690197/dcb74dc8-4c35-4dc0-9075-74bf1b5e99ee)
+![image](https://github.com/Ayvak16122005/Find-the-best-fit-line-using-Least-Squares-Method/assets/147690197/b723a694-6d2b-439d-80ea-dea654140572)
+
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
